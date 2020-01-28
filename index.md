@@ -1,37 +1,43 @@
 ## Welcome to Kaushal Bansal Website
 
-You can use the [editor on GitHub](https://github.com/kaushalbansal06/mca/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<html>
+          <meta name="viewport" content="width=device-width, initial-scale=1.0">  
+    <head>
+    <title>ibit.ml FOR MCA</title></head>
+    <link rel="stylesheet" type="text/css" href="mcastyle.css">
+    
+    <body>
+        <header>  
+            <h1>***MCA NOTES***</h1>
+            <nav>  
+            
+            </nav>
+        </header>
+        <ul>
+            <li> 2ND SEMESTER<i> <span class="blink">(Last update:25-Jan-20)</span></i>
+           <ol>
+               <li>C++_JAVA</li>
+               <li><a href="secSem/">Data Structure Programs</a></li>
+               <li><a href="https://citengg.blogspot.com/p/behrouz-forouzancomputer-networks4th.html">Computer Network</a>
+               </li>
+               <li><a href="https://drive.google.com/open?id=1nenoD3E8nFiK6T95NzEw3reJKcSfD0gU">Accounts [Gdrive]</a></li>
+               <li><a href="https://drive.google.com/open?id=1Z5rZ09ueSjYWbfGax8y7by5sy4yvio8g">Computer Oriented Numerical</a></li>
+           </ol>
+        </li>  
+        </ul>
+        <hr>
+        <h1>SOME USEFULL EDUCATIONAL  SITES</h1>
+    <ul>
+        <li><a href="https://accounting-simplified.com/financial/introduction/what-is-accounting.html">Accountancy Simplified</a></li>
+        <li><a href="https://www.pdfdrive.com">pdfdrive</a></li>
+        </ul>
+        <hr>
+        <h1><i>NEWS_UPDATE</i></h1>
+        <ol>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kaushalbansal06/mca/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+        </ol>
+        <hr>
+        MORE LINKS WILL BE UPDATED SOON!
+    </body>
+</html>
