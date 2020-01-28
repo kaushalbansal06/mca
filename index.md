@@ -1,4 +1,3 @@
-<center> 
 ## Welcome to Kaushal Bansal Website
 
 
@@ -42,4 +41,3 @@
         MORE LINKS WILL BE UPDATED SOON!
    </body>
 </html>
- </center>
