@@ -11,11 +11,10 @@
        <header>  
             <h1>***MCA NOTES***</h1>
             <nav>  
-                    <li> 2ND SEMESTER<i> <span class="blink">(Last update:28-Jan-20)</span></i>
  
             </nav>
         </header><h1>POWERPOINT PRESENTATION</h1>
-        <ul>
+        <ul>   <li> 2ND SEMESTER<i> <span class="blink">(Last update:28-Jan-20)</span></i>
                   <ol>
                <li><a href="https://drive.google.com/open?id=1nenoD3E8nFiK6T95NzEw3reJKcSfD0gU">Accounts</a></li>
                <li><a href="https://drive.google.com/open?id=1Z5rZ09ueSjYWbfGax8y7by5sy4yvio8g">Numerical Method</a></li>
