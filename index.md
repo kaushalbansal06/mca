@@ -13,13 +13,12 @@
             <nav>  
             
             </nav>
-        </header>
+        </header><h1>PPT</h1>
         <ul>
             <li> 2ND SEMESTER<i> <span class="blink">(Last update:28-Jan-20)</span></i>
            <ol>
-               <li><a href="secSem/">Data Structure Programs</a></li>
-               <li><a href="https://drive.google.com/open?id=1nenoD3E8nFiK6T95NzEw3reJKcSfD0gU">Accounts [Gdrive]</a></li>
-               <li><a href="https://drive.google.com/open?id=1Z5rZ09ueSjYWbfGax8y7by5sy4yvio8g">Computer Oriented Numerical</a></li>
+               <li><a href="https://drive.google.com/open?id=1nenoD3E8nFiK6T95NzEw3reJKcSfD0gU">Accounts</a></li>
+               <li><a href="https://drive.google.com/open?id=1Z5rZ09ueSjYWbfGax8y7by5sy4yvio8g">Numerical Method</a></li>
            </ol>
         </li>  
         </ul>
