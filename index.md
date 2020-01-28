@@ -34,10 +34,10 @@
         </ul>
         <hr>
         <h1><i>BOOKS</i></h1>
-        <ol>
+        <ul>
         <li><a href="https://www.learncbse.in/ncert-accountancy-book/">Accountants</a></li>
         
-        </ol>
+        </ul>
         <hr>
         MORE LINKS WILL BE UPDATED SOON!
    </body>
