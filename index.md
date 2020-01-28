@@ -33,7 +33,7 @@
         <li><a href="https://www.pdfdrive.com">pdfdrive</a></li>
         </ul>
         <hr>
-        <h1><i>BOOKS</i></h1>
+        <h1>BOOKS</h1>
         <ul>
         <li><a href="https://www.learncbse.in/ncert-accountancy-book/">Accountants</a></li>
         
