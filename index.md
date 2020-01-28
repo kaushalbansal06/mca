@@ -15,7 +15,7 @@
             </nav>
         </header>
         <ul>
-            <li> 2ND SEMESTER<i> <span class="blink">(Last update:25-Jan-20)</span></i>
+            <li> 2ND SEMESTER<i> <span class="blink">(Last update:28-Jan-20)</span></i>
            <ol>
                <li>C++_JAVA</li>
                <li><a href="secSem/">Data Structure Programs</a></li>
