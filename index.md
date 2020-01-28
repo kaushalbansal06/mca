@@ -33,9 +33,10 @@
         <li><a href="https://www.pdfdrive.com">pdfdrive</a></li>
         </ul>
         <hr>
-        <h1><i>NEWS_UPDATE</i></h1>
+        <h1><i>BOOKS</i></h1>
         <ol>
-
+        <li><a href="https://www.learncbse.in/ncert-accountancy-book/">Accountants</a></li>
+        
         </ol>
         <hr>
         MORE LINKS WILL BE UPDATED SOON!
