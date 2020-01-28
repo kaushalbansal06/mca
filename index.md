@@ -1,14 +1,15 @@
+<center> 
 ## Welcome to Kaushal Bansal Website
 
 
 <html>
           <meta name="viewport" content="width=device-width, initial-scale=1.0">  
     <head>
-    <title>ibit.ml FOR MCA</title></head>
+    <title>kaushalbansal06.gihub.io/mca</title></head>
     <link rel="stylesheet" type="text/css" href="mcastyle.css">
     
     <body>
-    <center>    <header>  
+       <header>  
             <h1>***MCA NOTES***</h1>
             <nav>  
             
@@ -39,5 +40,6 @@
         </ol>
         <hr>
         MORE LINKS WILL BE UPDATED SOON!
-    </center></body>
+   </body>
 </html>
+ </center>
