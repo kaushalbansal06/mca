@@ -8,7 +8,7 @@
     <link rel="stylesheet" type="text/css" href="mcastyle.css">
     
     <body>
-        <header>  
+    <center>    <header>  
             <h1>***MCA NOTES***</h1>
             <nav>  
             
@@ -39,5 +39,5 @@
         </ol>
         <hr>
         MORE LINKS WILL BE UPDATED SOON!
-    </body>
+    </center></body>
 </html>
