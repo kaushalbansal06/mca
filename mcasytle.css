@@ -1,0 +1,63 @@
+/*GENERAL SECTION*/
+body{
+    
+    background-size:cover;
+    background-color: #030708;
+    color: white;
+    
+}
+h1{
+    text-align: center;
+    font-family: monospace;
+    text-decoration: underline;
+}
+li{
+    font-family: verdana;
+}
+
+li a.active{
+    background-color:greenyellow;
+    color: black;
+     
+}
+li a:hover:not(.active) {
+  background-color: ghostwhite;
+  color: black;
+   
+}
+
+img{
+    align-content: center;
+    width:1200;
+    height: 480;
+}
+h2{
+   
+    font-family: arial;
+    color:#f4ff1c;
+    background-color: #005475;
+    margin:1px;
+    border-radius: 5px;
+}
+h3{
+  color:greenyellow;
+}
+p{  
+    font-family:verdana;  
+    margin:5px;/*INHERITED 5PX FRM H2*/
+}
+a{
+    color: greenyellow;
+}
+
+.blink{
+    animation:Define 1.5s infinite;
+    
+}
+@keyframes Define{
+    0%{color: aliceblue;}
+    20%{color: antiquewhite;}
+    50%{color: aqua;}
+    80%{color: bisque;}
+    100%{color: black;}
+}
